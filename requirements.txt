@@ -1,0 +1,5 @@
+opencv-python-headless
+numpy
+mss
+pystray
+pillow
